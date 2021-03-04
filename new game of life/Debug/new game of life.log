@@ -1,0 +1,6 @@
+﻿  new game of life.cpp
+c:\users\ncrosby\downloads\new game of life\new game of life\screen.h(54): warning C4273: 'getch': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see previous definition of 'getch'
+c:\users\ncrosby\downloads\new game of life\new game of life\screen.h(70): warning C4273: 'getche': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(455): note: see previous definition of 'getche'
+  new game of life.vcxproj -> C:\Users\ncrosby\Downloads\new game of life\Debug\new game of life.exe
